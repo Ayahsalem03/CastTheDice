@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ij+e+1AA2uw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ayosh\\.Net Clould Developer\\programmering med CSharp\\Mina projekt\\CastTheDice\\CastTheDice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ayosh\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.21\\microsoft.netcore.app.ref.9.0.21.nupkg.sha512",
+    "C:\\Users\\ayosh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.21\\microsoft.windowsdesktop.app.ref.9.0.21.nupkg.sha512",
+    "C:\\Users\\ayosh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.21\\microsoft.aspnetcore.app.ref.9.0.21.nupkg.sha512",
+    "C:\\Users\\ayosh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.21\\microsoft.netcore.app.host.win-x64.9.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
